@@ -1,0 +1,29 @@
+1 - Start
+    1.1 -Instalation
+    1.2 - Prepare environment
+2 - Fundamentals
+    2.0 - A BoardProject(A Forum) 
+    ***********************************
+                Use Case Diagram
+                
+                 ******************** 
+                 * Create new Board *  <--- Admin
+                 ********************  
+
+                 ******************** 
+      User --->  * Create new Topic *  <--- Admin
+                 ********************  
+
+                   **************** 
+        User --->  * Post replies *  <--- Admin
+                   ****************  
+
+    ***********************************
+    2.1 - Model
+    2.2 - Views
+    2.3 - Template
+    2.4 - Urls
+    2.5 - Admin
+8 - Migration
+9 - Test
+10 - deployment
